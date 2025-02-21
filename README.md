@@ -2,6 +2,9 @@
 
 ### This repository contains the sample code for the [Getting Started with Snowflake Native Apps Quicsktart](https://quickstarts.snowflake.com/guide/getting_started_with_native_apps/). 
 
+https://app.snowflake.com/QIQZSRY/hv39958/#/apps/application/NATIVE_APP_QUICKSTART_PACKAGE_RIYAM/schema/APP_INSTANCE_SCHEMA/streamlit/STREAMLIT
+
+
 ![Snowflake Native Apps](https://quickstarts.snowflake.com/guide/getting_started_with_native_apps/img/edcfa4000a03ae36.png)
 nowflake Native Apps are a new way to build data intensive applications. Snowflake Native Apps benefit from running inside Snowflake and can be installed from the Snowflake Marketplace, similar to installing an app on a smart phone. Snowflake Native Apps can read and write data to a user's database (when given permission to do so). Snowflake Native Apps can even bring in new data to their users, providing new insights.
 
